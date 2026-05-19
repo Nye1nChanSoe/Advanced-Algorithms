@@ -1,0 +1,13 @@
+# Compiled binaries
+bin/
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+
+main
+*.out
